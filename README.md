@@ -14,7 +14,7 @@ JOI Energy is a new start-up in the energy industry. Rather than selling energy 
 
 You have been placed into their development team, whose current goal is to produce an API which their customers and smart meters will interact with.
 
-Unfortunately, two members of the team are on annual leave, and another one has called in sick! You are left with another ThoughtWorker to progress with the current user stories on the story wall. This is your chance to make an impact on the business, improve the code base and deliver value.
+Unfortunately, two members of the team are on annual leave, and another one has called in sick! You are left with another Worker to progress with the current user stories on the story wall. This is your chance to make an impact on the business, improve the code base and deliver value.
 
 ## Story Wall
 

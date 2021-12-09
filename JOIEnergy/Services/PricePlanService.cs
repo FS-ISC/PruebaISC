@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using JOIEnergy.Domain;
-
-namespace JOIEnergy.Services
+﻿namespace JOIEnergy.Services
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using JOIEnergy.Domain;
+
     public class PricePlanService : IPricePlanService
     {
         public interface Debug { void Log(string s); };

@@ -1,18 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using JOIEnergy.Domain;
-using JOIEnergy.Enums;
-using JOIEnergy.Generator;
-using JOIEnergy.Services;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.DependencyInjection;
-
-namespace JOIEnergy
+﻿namespace JOIEnergy
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using JOIEnergy.Domain;
+    using JOIEnergy.Enums;
+    using JOIEnergy.Generator;
+    using JOIEnergy.Services;
+    using Microsoft.AspNetCore.Builder;
+    using Microsoft.AspNetCore.Hosting;
+    using Microsoft.Extensions.Configuration;
+    using Microsoft.Extensions.Hosting;
+    using Microsoft.Extensions.DependencyInjection;
+
     public class Startup
     {
         public Startup(IConfiguration configuration)

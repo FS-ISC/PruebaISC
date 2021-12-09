@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using JOIEnergy.Domain;
-
-namespace JOIEnergy.Generator
+﻿namespace JOIEnergy.Generator
 {
+    using System;
+    using System.Collections.Generic;
+    using JOIEnergy.Domain;
+
     public class ElectricityReadingGenerator
     {
         public ElectricityReadingGenerator()

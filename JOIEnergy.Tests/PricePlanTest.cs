@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using JOIEnergy.Domain;
-using JOIEnergy.Enums;
-using Xunit;
-
-namespace JOIEnergy.Tests
+﻿namespace JOIEnergy.Tests
 {
+    using System;
+    using System.Collections.Generic;
+    using JOIEnergy.Domain;
+    using JOIEnergy.Enums;
+    using Xunit;
+
     public class PricePlanTest
     {
         private PricePlan _pricePlan;

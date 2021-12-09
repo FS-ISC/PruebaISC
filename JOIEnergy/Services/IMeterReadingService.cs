@@ -1,8 +1,8 @@
-﻿using System.Collections.Generic;
-using JOIEnergy.Domain;
-
-namespace JOIEnergy.Services
+﻿namespace JOIEnergy.Services
 {
+    using System.Collections.Generic;
+    using JOIEnergy.Domain;
+
     public interface IMeterReadingService
     {
         List<ElectricityReading> GetReadings(string smartMeterId);

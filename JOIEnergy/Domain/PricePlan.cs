@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using JOIEnergy.Enums;
-
-namespace JOIEnergy.Domain
+﻿namespace JOIEnergy.Domain
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using JOIEnergy.Enums;
+
     public class PricePlan
     {
         public Supplier EnergySupplier { get; set; }

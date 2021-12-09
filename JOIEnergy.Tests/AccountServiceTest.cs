@@ -1,11 +1,11 @@
-using System;
-using System.Collections.Generic;
-using JOIEnergy.Enums;
-using JOIEnergy.Services;
-using Xunit;
-
 namespace JOIEnergy.Tests
 {
+    using System;
+    using System.Collections.Generic;
+    using JOIEnergy.Enums;
+    using JOIEnergy.Services;
+    using Xunit;
+
     public class AccountServiceTest
     {
         private const Supplier PRICE_PLAN_ID = Supplier.PowerForEveryone;

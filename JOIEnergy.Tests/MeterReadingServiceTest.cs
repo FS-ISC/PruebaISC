@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using JOIEnergy.Services;
-using JOIEnergy.Domain;
-using Xunit;
-
-namespace JOIEnergy.Tests
+﻿namespace JOIEnergy.Tests
 {
+    using System;
+    using System.Collections.Generic;
+    using JOIEnergy.Services;
+    using JOIEnergy.Domain;
+    using Xunit;
+
     public class MeterReadingServiceTest
     {
         private static string SMART_METER_ID = "smart-meter-id";

@@ -1,17 +1,17 @@
-﻿using JOIEnergy.Controllers;
-using JOIEnergy.Domain;
-using JOIEnergy.Enums;
-using JOIEnergy.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Xunit;
-using Xunit.Abstractions;
-using Newtonsoft.Json.Linq;
-
-namespace JOIEnergy.Tests
+﻿namespace JOIEnergy.Tests
 {
+    using JOIEnergy.Controllers;
+    using JOIEnergy.Domain;
+    using JOIEnergy.Enums;
+    using JOIEnergy.Services;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using Xunit;
+    using Xunit.Abstractions;
+    using Newtonsoft.Json.Linq;
+
     public class PricePlanComparisonTest
     {
         private MeterReadingService meterReadingService;

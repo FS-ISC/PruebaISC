@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using JOIEnergy.Enums;
-
-namespace JOIEnergy.Services
+﻿namespace JOIEnergy.Services
 {
+    using System;
+    using System.Collections.Generic;
+    using JOIEnergy.Enums;
+
     public class AccountService : Dictionary<string, Supplier>, IAccountService
     { 
         private Dictionary<string, Supplier> _smartMeterToPricePlanAccounts;

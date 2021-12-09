@@ -1,6 +1,7 @@
-﻿using System;
-namespace JOIEnergy.Enums
+﻿namespace JOIEnergy.Enums
 {
+    using System;
+
     public enum Supplier
     {
         DrEvilsDarkEnergy,

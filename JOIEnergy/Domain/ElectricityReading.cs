@@ -1,6 +1,7 @@
-﻿using System;
-namespace JOIEnergy.Domain
+﻿namespace JOIEnergy.Domain
 {
+    using System;
+
     public class ElectricityReading
     {
         public DateTime Time { get; set; }

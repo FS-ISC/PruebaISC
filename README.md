@@ -1,3 +1,5 @@
+Original repo: https://github.com/techops-recsys-lateral-hiring/developer-joyofenergy-csharp
+
 # Welcome to PowerDale
 
 PowerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send information about how much energy a house has used.
@@ -14,7 +16,7 @@ JOI Energy is a new start-up in the energy industry. Rather than selling energy 
 
 You have been placed into their development team, whose current goal is to produce an API which their customers and smart meters will interact with.
 
-Unfortunately, two members of the team are on annual leave, and another one has called in sick! You are left with another ThoughtWorker to progress with the current user stories on the story wall. This is your chance to make an impact on the business, improve the code base and deliver value.
+Unfortunately, two members of the team are on annual leave, and another one has called in sick! You are left with another Worker to progress with the current user stories on the story wall. This is your chance to make an impact on the business, improve the code base and deliver value.
 
 ## Story Wall
 
@@ -202,7 +204,7 @@ Example output
 
 ## Requirements
 
-The project requires [.NET Core 2.0](https://dotnet.microsoft.com/download/dotnet-core/2.0). Kindly note that this project may not work with newer versions of .NET.
+The project requires [.NET Core 5.0](https://dotnet.microsoft.com/download/dotnet-core/5.0).
 
 ## Compatible IDEs
 
